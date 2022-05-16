@@ -1,0 +1,44 @@
+C:\Users\AA\RiderProjects\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe.config
+C:\Users\AA\RiderProjects\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe
+C:\Users\AA\RiderProjects\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.pdb
+C:\Users\AA\RiderProjects\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.AssemblyReference.cache
+C:\Users\AA\RiderProjects\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\AA\RiderProjects\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Properties.Resources.resources
+C:\Users\AA\RiderProjects\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.GenerateResource.cache
+C:\Users\AA\RiderProjects\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.CoreCompileInputs.cache
+C:\Users\AA\RiderProjects\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.exe
+C:\Users\AA\RiderProjects\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.pdb
+C:\Users\AA\RiderProjects\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Form1.resources
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe.config
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.pdb
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.AssemblyReference.cache
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Form1.resources
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Properties.Resources.resources
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.GenerateResource.cache
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.CoreCompileInputs.cache
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.exe
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.pdb
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Teslim\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe.config
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Teslim\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Teslim\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.pdb
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Teslim\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.AssemblyReference.cache
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Teslim\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Teslim\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Form1.resources
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Teslim\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Properties.Resources.resources
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Teslim\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.GenerateResource.cache
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Teslim\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.CoreCompileInputs.cache
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Teslim\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.exe
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Teslim\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.pdb
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Çalışma\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe.config
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Çalışma\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Çalışma\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.pdb
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Çalışma\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.AssemblyReference.cache
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Çalışma\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Çalışma\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Form1.resources
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Çalışma\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Properties.Resources.resources
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Çalışma\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.GenerateResource.cache
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Çalışma\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.CoreCompileInputs.cache
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Çalışma\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.exe
+C:\Users\AA\Desktop\2021-2022\Nesneye Dayalı Programlama\Odev3\Çalışma\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.pdb
